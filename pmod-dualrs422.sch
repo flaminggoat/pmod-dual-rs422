@@ -45,8 +45,6 @@ Text Label 2850 3700 2    50   ~ 0
 3V3
 Wire Wire Line
 	2850 3700 2600 3700
-Text Notes 5650 2150 0    118  ~ 0
-USE SIT3490\n
 Wire Wire Line
 	2100 3200 1550 3200
 Text Label 1550 3200 0    50   ~ 0
